@@ -1,3 +1,7 @@
+<a href="https://app.daily.dev/phoenixsoftweb"><img src="https://api.daily.dev/devcards/v2/LS9jMGf3XKjKjPoVlF5Iw.png?type=wide&r=7vg" width="652" alt="ashley baguley's Dev Card"/></a>
+
+
+
 - 👋 Hi, this is my business im setting up @phoenix-softweb
 - 👀 I’m interested in ... web and software development 
 - 🌱 I’m currently learning ...everything i am starting at the bottom and working my way up the ladder 
